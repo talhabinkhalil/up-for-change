@@ -139,7 +139,7 @@
 }
 
 .remove-margin{
-  margin-bottom: -4rem;
+  margin-bottom: -2rem;
 }
 
 .hr{
@@ -164,7 +164,6 @@
 .input-group{
   width: 90% !important;
   margin: 0 auto 2rem 10rem; 
-  display: table;
   margin: 0 auto !important;
   padding-bottom: 2rem;
 }
