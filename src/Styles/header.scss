@@ -1,0 +1,22 @@
+.main_nav {
+  position: relative;
+  .circle {
+    width: 19%;
+    margin-left: -168px;
+    height: 200px;
+    border-radius: 200%;
+    background-color: #000000;
+    position: fixed;
+    margin-top: -4px;
+    z-index: -1;
+  }
+  .logo_class {
+    margin-left: -95px;
+    margin-top: 40px !important;
+    position: absolute;
+    // align-self:flex-end;
+  }
+  .header-navbar{
+    margin-left: 210px;
+  }
+}

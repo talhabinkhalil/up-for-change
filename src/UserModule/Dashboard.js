@@ -76,8 +76,9 @@ const Dashboard = () => {
           <Row>
             <OurMission />
           </Row>
-          <Row>
+          <Row className="footerNav">
             <Header navbarItems={footeritems} />
+            <div className="footer_licence">Copyright @ 2021 Up4Change. All rights reserved</div>
           </Row>
         </Container>
       </div>

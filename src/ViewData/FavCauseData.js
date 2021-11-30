@@ -1,3 +1,1 @@
-export const favCauseData = [
-  "/favouriteCause.png","/favouriteCause.png"
-]
+export const favCauseData = ["/fav_cause.jpg", "/fav_cause.jpg"];
