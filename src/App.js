@@ -1,8 +1,8 @@
-import React from 'react';
-import RouteConfig from './routes/RouteConfig';
-import Header from './UserModule/Header/Header';
-import './Styles/Style.css';
-import { navbarItems } from './ViewData/NavBarItems';
+import React from "react";
+import RouteConfig from "./routes/RouteConfig";
+import Header from "./UserModule/Header/Header";
+import "./Styles/Style.css";
+import { navbarItems } from "./ViewData/NavBarItems";
 
 function App() {
   return (
