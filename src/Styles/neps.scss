@@ -1,0 +1,241 @@
+.neps_firstbox {
+  width: 100%;
+  background-color: #f9cc69;
+  height: 780px;
+  .main_box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .heading {
+      margin-top: 25%;
+      h1 {
+        color: #161f3d;
+        text-transform: uppercase;
+      }
+    }
+    .bottom_line {
+      width: 50%;
+      margin-left: 20%;
+      margin-top: 15px;
+      border-bottom: solid 3px #161f3d;
+    }
+  }
+  .content_div {
+    display: flex;
+    justify-content: center;
+    .content_div_child {
+      width: 70%;
+      .first_para {
+        margin-top: 30px;
+        h4 {
+          letter-spacing: -1px;
+          color: #161f3d;
+        }
+      }
+      .second_para {
+        margin-top: 30px;
+        h4 {
+          letter-spacing: -1px;
+          color: #161f3d;
+        }
+      }
+    }
+  }
+  .content_div_two {
+    display: flex;
+    justify-content: center;
+    .content_div_child {
+      width: 65%;
+      .first_para {
+        margin-top: 30px;
+        h5 {
+          letter-spacing: -1px;
+          color: #161f3d;
+        }
+      }
+      .second_para {
+        margin-top: 30px;
+        h5 {
+          letter-spacing: -1px;
+          color: #161f3d;
+        }
+      }
+    }
+  }
+}
+.neps_secondbox {
+  width: 100%;
+  background-color: #66c9d2;
+  height: 200px;
+  .blue_content {
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+    h3 {
+      text-align: center;
+      color: white;
+    }
+  }
+}
+.neps_thirdbox {
+  width: 100%;
+  background-color: #161f3d;
+  height: 1050px;
+  .main_box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .heading {
+      margin-top: 5%;
+      h2 {
+        color: #ff9776;
+        text-transform: uppercase;
+      }
+    }
+  }
+  .heading_section2 {
+    width: 80%;
+    margin: auto;
+    padding-top: 45px;
+    h4 {
+      color: white;
+    }
+  }
+  .nps_threebox {
+    width: 80%;
+    // border: solid 4px red;
+    margin: auto;
+    padding-top: 40px;
+    display: flex;
+    .threebox_divone {
+      width: 40%;
+      //   border: solid 4px rgb(0, 119, 255);
+      display: flex;
+      .child_div_two {
+        padding-top: 30px;
+        padding-left: 20px;
+        width: 45%;
+        h4 {
+          color: white;
+        }
+      }
+    }
+    .threebox_divtwo {
+      width: 20%;
+      //   border: solid 4px rgb(247, 0, 255);
+      padding-top: 70px;
+      padding-left: -30px;
+    }
+    .threebox_divthree {
+      width: 40%;
+      //   border: solid 4px rgb(60, 255, 0);
+      display: flex;
+      .child_div_two {
+        padding-top: 30px;
+        padding-left: 20px;
+        width: 55%;
+        h4 {
+          color: white;
+        }
+      }
+    }
+  }
+  .neps_two_div {
+    width: 50%;
+    // border: solid 4px red;
+    margin: auto;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    .child_two {
+      width: 45%;
+      h4 {
+        color: white;
+      }
+    }
+  }
+  .content_div_three {
+    width: 80%;
+    margin: auto;
+    padding-top: 45px;
+    .first_para {
+      h4 {
+        color: white;
+      }
+    }
+    .second_para {
+      // width: 80%;
+      // margin: auto;
+      padding-top: 45px;
+      h4 {
+        color: white;
+      }
+    }
+    .third_para {
+      width: 40%;
+      margin: auto;
+      padding-top: 45px;
+      h3 {
+        color: white;
+        text-align: center;
+      }
+    }
+  }
+}
+.neps_four_box {
+  display: flex;
+  justify-content: center;
+  background-color: #000000;
+  width: 100%;
+  display: table;
+  // margin-top: 5%;
+  // margin-bottom: 15%;
+  color: #ffffff;
+  size: 26px;
+  font-weight: bolder;
+  line-height: 32px;
+  h3 {
+    margin-top: 17px;
+    margin-bottom: 17px;
+    text-align: center;
+  }
+  hr {
+    border: 2px solid;
+    color: #ffffff;
+    width: 20%;
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+  }
+}
+.neps_five_box {
+  width: 100%;
+  background-color: #161f3d;
+  height: 400px;
+  margin: auto;
+  .button_div_two {
+      border: solid 3px red;
+
+    .button_div {
+      // margin-top: -40px;
+      // position: relative;
+      // padding-bottom: 20px;
+    }
+    .signup-button2 {
+      background: #ff9776;
+      box-shadow: 0px 4.51897px 22.5948px rgba(255, 151, 118, 0.6);
+      color: white;
+      border: none;
+      /* height: 40px; */
+      width: 250px;
+      padding: 0.5%;
+      width: 150 px;
+      overflow: hidden;
+      transition: width 0.5s, background 0.5s;
+      /* transition: background 0.5s; */
+    }
+    h3{
+        color: white;
+    }
+  }
+}
