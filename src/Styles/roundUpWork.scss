@@ -1,0 +1,207 @@
+.round_up_work_firstbox {
+  width: 100%;
+  background-color: #f9cc69;
+  height: 700px;
+  .main_box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    .heading {
+      margin-top: 25%;
+      h1 {
+        color: #161f3d;
+        text-transform: uppercase;
+      }
+    }
+    .bottom_line {
+      width: 50%;
+      margin-left: 20%;
+      margin-top: 15px;
+      border-bottom: solid 3px #161f3d;
+    }
+    .first_para {
+      margin-top: 30px;
+      margin-left: 15px;
+      h3 {
+        color: #161f3d;
+      }
+    }
+    .first_box_image {
+      margin-top: 20px;
+      margin-left: 24%;
+      .quesClass {
+        margin-top: -325px;
+        margin-left: -5px;
+      }
+    }
+  }
+  .content_div {
+    display: flex;
+    justify-content: center;
+    .content_div_child {
+      width: 80%;
+      .second_para {
+        margin-top: 30px;
+        h3 {
+          letter-spacing: -1px;
+          text-align: center;
+        }
+      }
+    }
+  }
+}
+.round_up_work_secondbox {
+  width: 100%;
+  background-color: #161f3d;
+  height: 960px;
+  .heading {
+    padding-top: 40px;
+    h1 {
+      color: #ffffff;
+      text-transform: uppercase;
+      text-align: center;
+    }
+  }
+  .three_box_div {
+    width: 80%;
+    display: flex;
+    padding-top: 30px;
+    margin: auto;
+    .div_box_one {
+      width: 25%;
+      //   border: solid 4 px #eee019;
+      padding-right: 20px;
+      .img {
+        margin-left: 30px;
+      }
+      .content {
+        // border: solid 4px #357fbb;
+        h4 {
+          color: white;
+        }
+        p {
+          color: white;
+          font-weight: 400;
+        }
+      }
+    }
+    .div_box_two {
+      width: 50%;
+      //   border: solid 4px #20ee19;
+      .img {
+        object-fit: cover;
+        width: 100%;
+        margin-top: 12px;
+      }
+    }
+    .div_box_three {
+      width: 25%;
+      //   border: solid 4px #ee1935;
+      .img {
+        object-fit: cover;
+        // width: 100%;
+        margin-left: 50px;
+      }
+      .content {
+        // border: solid 4px #357fbb;
+        padding-left: 15px;
+        h4 {
+          color: white;
+        }
+        p {
+          color: white;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+  .two_box_div {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    .box_one {
+      width: 45%;
+      //   border: solid 4px #a535bb;
+      padding-top: 10%;
+      .img {
+        object-fit: cover;
+        width: 100%;
+      }
+      .content {
+        // border: solid 4px #357fbb;
+        // padding-left: 15px;
+        h4 {
+          color: white;
+        }
+        p {
+          color: white;
+          font-weight: 400;
+        }
+      }
+    }
+    .box_two {
+      width: 45%;
+      padding-top: 5%;
+
+      //   border: solid 4px #35abbb;
+      .img {
+        object-fit: cover;
+        width: 100%;
+      }
+      .content {
+        // border: solid 4px #357fbb;
+        // padding-left: 15px;
+        h4 {
+          color: white;
+        }
+        p {
+          color: white;
+          font-weight: 400;
+        }
+      }
+    }
+  }
+}
+.round_up_work_thirdbox {
+  width: 100%;
+  background-color: #ff9776;
+  height: 250px;
+  .main_box {
+    width: 100%;
+    display: flex;
+    padding-top: 30px;
+    justify-content: center;
+    .cover {
+      //   border: solid 4px #04f5f5;
+      width: 48%;
+      .content {
+        // border: solid 4px #357fbb;
+        // padding-left: 15px;
+        h4 {
+          color: white;
+          text-align: center;
+        }
+      }
+
+      .heading {
+        // border: solid 4px #66bb35;
+
+        margin-top: 5%;
+        h1 {
+          color: #ffffff;
+          text-transform: uppercase;
+          text-align: center;
+        }
+      }
+      .bottom_line {
+        // border: solid 4px #bb359e;
+
+        width: 50%;
+        margin-left: 25%;
+        margin-top: 15px;
+        border-bottom: solid 3px #ffffff;
+      }
+    }
+  }
+}
